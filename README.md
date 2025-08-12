@@ -68,7 +68,7 @@ src/
   ```
 
 ## 📸 Preview
-![alt text](image-3.png)
-![alt text](image.png)
+<img width="2255" height="1262" alt="image" src="https://github.com/user-attachments/assets/37d2eb4d-9424-48f5-8f24-068a4d5ce4db" />
+![alt text]()
 ![alt text](image-1.png)
 ![alt text](image-2.png)
