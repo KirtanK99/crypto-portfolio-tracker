@@ -68,7 +68,7 @@ src/
   ```
 
 ## 📸 Preview
-![alt text](/docs/images/image.png)
-![Alt text](./docs/images/image-1.png)
-![Alt text](./docs/images/image-2.png)
-![Alt text](./docs/images/image-3.png)
+![alt text](client/docs/images/image.png)
+![Alt text](client/docs/images/image-1.png)
+![Alt text](client/docs/images/image-2.png)
+![Alt text](client/docs/images/image-3.png)
